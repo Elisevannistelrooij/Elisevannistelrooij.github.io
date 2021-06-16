@@ -1,10 +1,10 @@
 # Karamel
 Website gemaakt door: Elise van Nistelrooij
     <ul>
-  <li><a href="#">Hoe is karamel ontstaan?</a></li>
-  <li><a href="#">Hoe wordt karmel gemaakt?</a></li>
-  <li><a href="#">Waar wordt karamel voor gebruikt?</a></li>
-  <li><a href="#">Lekkerste eetcombinaties met karamel</a></li>
+  <li><B><a href="#">Hoe is karamel ontstaan?</a></B></li>
+  <li><B><a href="#">Hoe wordt karmel gemaakt?</a></B></li>
+  <li><B><a href="#">Waar wordt karamel voor gebruikt?</a></B></li>
+  <li><B><a href="#">Lekkerste eetcombinaties met karamel</a></B></li>
   </ul>
    </header>
   <article>
